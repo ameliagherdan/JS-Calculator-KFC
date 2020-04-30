@@ -1,5 +1,5 @@
 # calculatorkfc
-// Calculator K, ºC, ºF //
+// Calculator K, ºC, ºF //  
 Calculeaza valori din :  
 Celsius in Kelvin  
 Celsius in Farenheight  
